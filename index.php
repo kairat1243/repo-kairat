@@ -14,6 +14,6 @@
     <h2 style="position: relative;left: 3%;width: 97%;">Abdukaim uulu Kairat</h2>
     <hr>
     
-   <img style="position: relative;left: 20%;" src="img/img.jpg">
+   <img style="position: relative;left: 20%;" src="img.jpg">
 </body>
 </html>
