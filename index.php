@@ -24,7 +24,7 @@
                <p>my social media</p>
     <div>Instagram: <a href="https://www.instagram.com/evgenii_ponasenkov/" target="_blank">@evgenii_ponasenkov</a>></a></div>   
     <div>YouTube: <a href="https://youtu.be/ZudsBqbtws8" target="_blank">Log in</a>></a></div>    
-    <div>STEAM: <a href="https://steamcommunity.com/id/Kairat2018/"Log in></a></div>
+    <div>STEAM: <a href="https://steamcommunity.com/id/Kairat2018/"Log in</a>></a></div>  
 
            </h2></th>
            <th>
