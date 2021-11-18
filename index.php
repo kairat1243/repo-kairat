@@ -15,5 +15,12 @@
     <hr>
     
    <img style="position: relative;left: 20%;" src="img.jpg">
+   <tr>
+</h2></th>
+<th>
+    <p align="right"><img src="kaitat.js" height="300" width="500" alt=""></p>
+</th>
+   </tr>
 </body>
 </html>
+
