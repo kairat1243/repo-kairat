@@ -18,7 +18,7 @@
    <tr>
 </h2></th>
 <th>
-    <p align="right"><img src="kaitat.js" height="300" width="500" alt=""></p>
+    <p align="right"><img src="kg.jng" height="300" width="500" alt=""></p>
 </th>
    </tr>
 </body>
