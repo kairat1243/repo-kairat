@@ -19,10 +19,13 @@
        <th>
            <h2>
                <p>I am 17 yers old</p>
-               <p>phone number: 0773823671</p>
+               <p>phone number: 0774393381</p>
+               <p>home address: Archa Beshik 6/72</p>
                <p>my social media</p>
     <div>Instagram: <a href="https://www.instagram.com/evgenii_ponasenkov/" target="_blank">@evgenii_ponasenkov</a>></a></div>   
-    <div>YouTube: <a href="https://youtu.be/ZudsBqbtws8" target="_blank">Log in</a>></a></div>       
+    <div>YouTube: <a href="https://youtu.be/ZudsBqbtws8" target="_blank">Log in</a>></a></div>    
+    <div>WK: <a href="https://vk.com/id577557521"Log in></a></div>
+
            </h2></th>
            <th>
                <p align="right"><img src="kaitat.js" height="300" width="500" alt=""></p>
